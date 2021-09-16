@@ -1,0 +1,18 @@
+#Amazon Redshift connect string
+RED_HOST = "[DATABASE-HOSTNAME]"
+RED_DB =    "[DATABASE-NAME]"
+RED_USER =  "[DATABASE-USER]"
+RED_PASS =  "[DATABASE-PASSWORD]"
+RED_PORT =  "5439"
+AWS_ACCESS_KEY_ID =   "[AWS_ACCESS_KEY_ID]"
+AWS_SECRET_ACCESS_KEY =   "[AWS_SECRET_ACCESS_KEY]"
+
+S3_BUCKET = "[S3-BUCKET]"
+S3_PREFIX = "[S3-FOLDER]"
+S3_FILE_NAME = "myfile.json"
+
+LOCAL_FILE_NAME = "/temp/myfile.json"
+
+RED_SCHEMA = "zeus"
+RED_TABLE_NAME = "smartsheet_bedcount"
+
